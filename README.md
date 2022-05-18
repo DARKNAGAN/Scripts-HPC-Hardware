@@ -1,4 +1,4 @@
-# HPC
+# HPC Script Hardware
 
 Script d'automatisation de manipulation hardware en bash pour équipement HPC.
   - HWInfo - Donne toutes les informations de l'équipement et son status pour la réalisation d'intervention
